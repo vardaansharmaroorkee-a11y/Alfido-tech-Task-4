@@ -1,0 +1,501 @@
+applicant_id,application_month,department,source,education,cgpa,prior_experience_months,screened,interview_invited,interview_attended,task_assigned,offer_made,offer_accepted,drop_reason
+ALC1000,Jun,Digital Marketing,LinkedIn,BCA,6.71,0,0,0,0,0,0,0,No response
+ALC1001,Dec,Web Development,College Portal,BCA,6.76,0,1,0,0,0,0,0,
+ALC1002,Sep,Web Development,Naukri,B.Tech,7.3,0,0,0,0,0,0,0,Already placed
+ALC1003,Aug,UI/UX Design,Company Website,B.Tech,7.83,0,1,0,0,0,0,0,
+ALC1004,Apr,Digital Marketing,Company Website,BCA,8.32,6,1,0,0,0,0,0,
+ALC1005,Apr,Data Science,Referral,BCA,6.78,0,0,0,0,0,0,0,Already placed
+ALC1006,Feb,Business Development,Referral,MBA,8.84,3,1,1,1,0,0,0,
+ALC1007,Oct,UI/UX Design,Company Website,MBA,7.26,6,1,1,1,0,0,0,
+ALC1008,Aug,Business Development,LinkedIn,MBA,7.48,0,1,1,1,1,1,0,
+ALC1009,Sep,Digital Marketing,College Portal,BSc,6.83,6,0,0,0,0,0,0,Location constraint
+ALC1010,Jan,Digital Marketing,LinkedIn,BSc,5.32,0,1,0,0,0,0,0,
+ALC1011,Dec,Web Development,Instagram,BBA,8.3,12,1,1,1,1,1,0,
+ALC1012,Oct,Business Development,Naukri,MCA,8.16,0,1,1,1,1,1,1,
+ALC1013,Apr,UI/UX Design,LinkedIn,B.Tech,7.25,3,1,0,0,0,0,0,
+ALC1014,Apr,Data Science,Company Website,B.Tech,7.56,0,0,0,0,0,0,0,No response
+ALC1015,Apr,Data Science,Naukri,B.Tech,7.96,0,0,0,0,0,0,0,Already placed
+ALC1016,May,Web Development,LinkedIn,MBA,6.09,0,1,0,0,0,0,0,
+ALC1017,Jul,UI/UX Design,College Portal,MCA,7.02,3,0,0,0,0,0,0,No response
+ALC1018,Jun,Business Development,Naukri,B.Tech,8.21,0,0,0,0,0,0,0,No response
+ALC1019,May,Data Science,LinkedIn,MCA,6.37,0,0,0,0,0,0,0,No response
+ALC1020,Aug,Digital Marketing,Referral,B.Tech,7.76,3,1,1,1,1,0,0,
+ALC1021,Mar,Web Development,LinkedIn,MCA,6.28,3,0,0,0,0,0,0,Location constraint
+ALC1022,May,Business Development,Naukri,B.Tech,7.92,12,0,0,0,0,0,0,Role mismatch
+ALC1023,Jun,UI/UX Design,Instagram,B.Tech,7.47,3,0,0,0,0,0,0,Role mismatch
+ALC1024,Jul,UI/UX Design,Naukri,BCA,6.05,12,0,0,0,0,0,0,Low CGPA
+ALC1025,Sep,Web Development,College Portal,B.Tech,8.55,3,1,1,1,0,0,0,
+ALC1026,Apr,Web Development,Naukri,B.Tech,6.84,0,0,0,0,0,0,0,Low CGPA
+ALC1027,Jul,Data Science,Company Website,B.Tech,6.77,0,1,0,0,0,0,0,
+ALC1028,Aug,Data Science,LinkedIn,BSc,7.68,3,1,1,1,0,0,0,
+ALC1029,Feb,UI/UX Design,Company Website,MBA,8.53,0,1,1,0,0,0,0,
+ALC1030,Aug,UI/UX Design,LinkedIn,B.Tech,6.59,0,0,0,0,0,0,0,No response
+ALC1031,Apr,Business Development,College Portal,MBA,7.56,0,1,1,1,1,0,0,
+ALC1032,Feb,Business Development,LinkedIn,BBA,7.89,12,0,0,0,0,0,0,No response
+ALC1033,Nov,Digital Marketing,LinkedIn,B.Tech,8.12,0,1,1,1,1,0,0,
+ALC1034,Dec,UI/UX Design,LinkedIn,BCA,7.66,0,0,0,0,0,0,0,Low CGPA
+ALC1035,Oct,Business Development,Referral,B.Tech,7.17,0,1,0,0,0,0,0,
+ALC1036,May,UI/UX Design,LinkedIn,B.Tech,6.76,0,0,0,0,0,0,0,Role mismatch
+ALC1037,Mar,Data Science,Company Website,BBA,7.58,0,1,0,0,0,0,0,
+ALC1038,Aug,Web Development,LinkedIn,B.Tech,6.54,0,1,0,0,0,0,0,
+ALC1039,Jul,Data Science,LinkedIn,BCA,5.0,0,0,0,0,0,0,0,Low CGPA
+ALC1040,Mar,Business Development,College Portal,BBA,7.89,3,1,1,1,1,1,1,
+ALC1041,Jul,Digital Marketing,Company Website,B.Tech,8.31,0,1,1,1,1,1,1,
+ALC1042,Jan,Data Science,LinkedIn,MBA,5.37,6,1,1,1,0,0,0,
+ALC1043,Nov,Digital Marketing,Referral,B.Tech,6.59,6,0,0,0,0,0,0,No response
+ALC1044,May,Digital Marketing,Naukri,MCA,8.06,0,0,0,0,0,0,0,No response
+ALC1045,Aug,Web Development,Referral,BCA,9.35,3,1,0,0,0,0,0,
+ALC1046,May,Data Science,LinkedIn,BSc,7.52,0,1,1,1,1,1,1,
+ALC1047,Jul,Digital Marketing,LinkedIn,MBA,6.84,6,0,0,0,0,0,0,No response
+ALC1048,Jul,Web Development,Naukri,B.Tech,7.34,0,1,1,1,1,1,0,
+ALC1049,Apr,UI/UX Design,LinkedIn,MBA,8.74,3,1,1,1,0,0,0,
+ALC1050,Dec,Web Development,Naukri,MCA,6.92,0,0,0,0,0,0,0,Low CGPA
+ALC1051,Sep,UI/UX Design,College Portal,MBA,6.78,0,0,0,0,0,0,0,Location constraint
+ALC1052,Nov,Digital Marketing,Naukri,BSc,7.07,0,0,0,0,0,0,0,Already placed
+ALC1053,Nov,Digital Marketing,Company Website,MCA,6.64,3,0,0,0,0,0,0,Role mismatch
+ALC1054,Aug,UI/UX Design,Instagram,B.Tech,7.61,3,0,0,0,0,0,0,Low CGPA
+ALC1055,Nov,Web Development,College Portal,B.Tech,8.96,0,1,1,1,1,0,0,
+ALC1056,Mar,Data Science,Company Website,MBA,7.79,0,1,1,1,1,1,0,
+ALC1057,Apr,Data Science,College Portal,BCA,7.27,0,1,0,0,0,0,0,
+ALC1058,Feb,UI/UX Design,College Portal,BSc,7.24,3,1,0,0,0,0,0,
+ALC1059,Jun,Digital Marketing,Referral,MCA,6.09,0,0,0,0,0,0,0,Low CGPA
+ALC1060,Jun,Digital Marketing,Naukri,B.Tech,8.29,6,1,1,0,0,0,0,
+ALC1061,May,Data Science,Instagram,B.Tech,7.43,0,1,1,0,0,0,0,
+ALC1062,Oct,Data Science,Company Website,BSc,7.34,0,1,0,0,0,0,0,
+ALC1063,Jun,Data Science,College Portal,B.Tech,10.0,0,0,0,0,0,0,0,No response
+ALC1064,May,Web Development,College Portal,BSc,7.77,0,0,0,0,0,0,0,Role mismatch
+ALC1065,Jul,Digital Marketing,Company Website,BCA,6.82,0,1,0,0,0,0,0,
+ALC1066,Apr,Web Development,LinkedIn,BBA,7.12,0,1,1,1,1,1,1,
+ALC1067,Oct,Web Development,LinkedIn,B.Tech,8.53,6,1,1,1,1,0,0,
+ALC1068,Feb,Business Development,College Portal,MBA,7.6,0,1,0,0,0,0,0,
+ALC1069,Dec,Web Development,LinkedIn,BCA,6.21,0,0,0,0,0,0,0,Role mismatch
+ALC1070,Sep,Web Development,LinkedIn,MBA,8.33,0,1,0,0,0,0,0,
+ALC1071,Apr,UI/UX Design,LinkedIn,B.Tech,6.9,0,0,0,0,0,0,0,No response
+ALC1072,Jan,Web Development,LinkedIn,BBA,9.19,0,1,1,1,1,1,1,
+ALC1073,Oct,Digital Marketing,LinkedIn,BSc,8.47,0,1,0,0,0,0,0,
+ALC1074,Sep,UI/UX Design,Instagram,B.Tech,7.1,0,0,0,0,0,0,0,Low CGPA
+ALC1075,Sep,Business Development,College Portal,B.Tech,8.65,0,1,1,1,0,0,0,
+ALC1076,Sep,Data Science,College Portal,B.Tech,7.56,0,1,0,0,0,0,0,
+ALC1077,Feb,Business Development,Referral,MBA,8.27,0,0,0,0,0,0,0,Low CGPA
+ALC1078,Jun,Web Development,LinkedIn,MBA,7.94,0,0,0,0,0,0,0,Already placed
+ALC1079,Mar,Data Science,Naukri,MBA,6.74,0,0,0,0,0,0,0,Location constraint
+ALC1080,Oct,Web Development,Company Website,B.Tech,6.92,12,0,0,0,0,0,0,Already placed
+ALC1081,Aug,Business Development,LinkedIn,BCA,8.43,0,1,0,0,0,0,0,
+ALC1082,Jun,Web Development,College Portal,MBA,7.2,3,0,0,0,0,0,0,Low CGPA
+ALC1083,Feb,Web Development,Naukri,BCA,7.14,0,0,0,0,0,0,0,No response
+ALC1084,May,Digital Marketing,Naukri,MCA,6.64,3,0,0,0,0,0,0,No response
+ALC1085,Jun,Data Science,College Portal,B.Tech,7.88,3,1,1,1,0,0,0,
+ALC1086,Sep,Data Science,Referral,BBA,9.36,0,1,1,0,0,0,0,
+ALC1087,Aug,Data Science,LinkedIn,BCA,6.54,12,0,0,0,0,0,0,No response
+ALC1088,Nov,Data Science,Instagram,BCA,7.52,0,1,0,0,0,0,0,
+ALC1089,Jul,Data Science,LinkedIn,BBA,8.77,0,0,0,0,0,0,0,No response
+ALC1090,Mar,Data Science,Naukri,BBA,7.43,3,1,0,0,0,0,0,
+ALC1091,Sep,Digital Marketing,Referral,MCA,7.91,6,0,0,0,0,0,0,Already placed
+ALC1092,Sep,Data Science,Referral,B.Tech,6.54,0,1,0,0,0,0,0,
+ALC1093,Jul,Web Development,College Portal,B.Tech,7.89,0,1,1,1,1,1,1,
+ALC1094,Sep,Business Development,LinkedIn,BBA,7.33,0,1,0,0,0,0,0,
+ALC1095,Jul,Web Development,LinkedIn,MBA,8.39,0,1,0,0,0,0,0,
+ALC1096,Jul,Digital Marketing,LinkedIn,B.Tech,8.57,3,1,1,1,1,0,0,
+ALC1097,Jun,Data Science,LinkedIn,B.Tech,9.83,0,1,0,0,0,0,0,
+ALC1098,Jan,Data Science,Company Website,B.Tech,8.02,0,1,0,0,0,0,0,
+ALC1099,Mar,Data Science,College Portal,MCA,7.79,0,1,0,0,0,0,0,
+ALC1100,Jan,Data Science,LinkedIn,B.Tech,7.67,0,1,0,0,0,0,0,
+ALC1101,Aug,Data Science,Instagram,B.Tech,7.18,0,1,1,0,0,0,0,
+ALC1102,May,Data Science,Naukri,B.Tech,7.8,0,1,1,1,1,1,1,
+ALC1103,Jul,Data Science,Naukri,B.Tech,7.23,12,1,1,1,0,0,0,
+ALC1104,Nov,Data Science,Instagram,B.Tech,7.65,6,0,0,0,0,0,0,Already placed
+ALC1105,May,Web Development,LinkedIn,BCA,8.69,0,0,0,0,0,0,0,No response
+ALC1106,Jun,Data Science,College Portal,B.Tech,6.59,6,0,0,0,0,0,0,Role mismatch
+ALC1107,Sep,Web Development,Company Website,BSc,8.53,3,1,0,0,0,0,0,
+ALC1108,May,Web Development,Referral,B.Tech,8.69,3,1,0,0,0,0,0,
+ALC1109,Feb,Digital Marketing,LinkedIn,MBA,7.39,0,1,1,1,1,1,1,
+ALC1110,May,Data Science,Company Website,MCA,5.59,0,0,0,0,0,0,0,No response
+ALC1111,Apr,UI/UX Design,LinkedIn,BBA,6.95,0,1,1,1,1,1,0,
+ALC1112,Nov,Digital Marketing,LinkedIn,MBA,8.67,0,1,1,1,0,0,0,
+ALC1113,Oct,Data Science,College Portal,B.Tech,7.48,0,1,1,1,0,0,0,
+ALC1114,Aug,UI/UX Design,College Portal,B.Tech,6.6,0,0,0,0,0,0,0,Low CGPA
+ALC1115,Oct,Business Development,College Portal,BBA,7.05,0,1,1,1,1,1,0,
+ALC1116,Oct,Data Science,LinkedIn,MCA,8.26,3,1,1,1,1,1,0,
+ALC1117,Apr,Data Science,Naukri,BBA,7.99,0,1,1,1,1,1,1,
+ALC1118,Nov,UI/UX Design,LinkedIn,MBA,7.28,0,1,1,1,1,0,0,
+ALC1119,Jul,UI/UX Design,LinkedIn,BBA,7.17,12,1,1,0,0,0,0,
+ALC1120,Oct,Data Science,Naukri,BCA,7.15,12,1,1,1,1,1,1,
+ALC1121,Nov,Data Science,Instagram,B.Tech,6.67,3,0,0,0,0,0,0,No response
+ALC1122,May,Web Development,Naukri,MBA,8.95,12,1,1,1,1,1,1,
+ALC1123,Mar,Web Development,Company Website,MCA,7.21,0,0,0,0,0,0,0,Low CGPA
+ALC1124,May,Digital Marketing,Referral,B.Tech,8.6,12,1,0,0,0,0,0,
+ALC1125,Jun,Web Development,College Portal,BBA,8.87,0,1,1,1,1,1,1,
+ALC1126,Oct,Web Development,LinkedIn,B.Tech,8.4,0,1,0,0,0,0,0,
+ALC1127,Oct,UI/UX Design,College Portal,MBA,7.11,0,1,0,0,0,0,0,
+ALC1128,Jan,Data Science,College Portal,B.Tech,7.86,0,1,0,0,0,0,0,
+ALC1129,Jul,Data Science,LinkedIn,BCA,7.48,0,1,0,0,0,0,0,
+ALC1130,Jun,Digital Marketing,Company Website,BSc,6.69,0,1,0,0,0,0,0,
+ALC1131,May,Business Development,College Portal,B.Tech,7.79,3,1,1,0,0,0,0,
+ALC1132,Mar,Web Development,LinkedIn,BBA,6.44,0,0,0,0,0,0,0,No response
+ALC1133,Jun,Web Development,LinkedIn,BSc,8.57,0,1,0,0,0,0,0,
+ALC1134,Nov,Data Science,Referral,MCA,7.08,6,0,0,0,0,0,0,Low CGPA
+ALC1135,Jun,Web Development,LinkedIn,B.Tech,7.68,0,1,0,0,0,0,0,
+ALC1136,Jul,Web Development,Naukri,BCA,7.75,0,1,1,1,1,1,1,
+ALC1137,Sep,Data Science,College Portal,B.Tech,7.27,3,1,0,0,0,0,0,
+ALC1138,Jun,Data Science,College Portal,MCA,8.03,0,1,1,1,1,1,1,
+ALC1139,Dec,Web Development,College Portal,MCA,7.07,0,1,0,0,0,0,0,
+ALC1140,Dec,Data Science,Company Website,MBA,8.28,6,1,1,1,0,0,0,
+ALC1141,May,Web Development,LinkedIn,BSc,6.29,0,0,0,0,0,0,0,Low CGPA
+ALC1142,Jul,Data Science,Referral,BCA,7.61,0,1,0,0,0,0,0,
+ALC1143,May,Web Development,College Portal,MBA,9.25,6,1,1,1,0,0,0,
+ALC1144,May,Data Science,LinkedIn,B.Tech,6.6,3,0,0,0,0,0,0,Location constraint
+ALC1145,Jan,Business Development,Naukri,BSc,6.89,0,1,1,1,0,0,0,
+ALC1146,Aug,Digital Marketing,Company Website,B.Tech,7.96,0,1,1,1,1,1,0,
+ALC1147,Jul,Digital Marketing,Referral,BSc,7.66,0,1,1,0,0,0,0,
+ALC1148,Feb,UI/UX Design,Naukri,BSc,7.82,0,1,1,1,0,0,0,
+ALC1149,May,Web Development,Naukri,BBA,7.94,0,1,0,0,0,0,0,
+ALC1150,Nov,Data Science,Company Website,B.Tech,8.07,0,0,0,0,0,0,0,No response
+ALC1151,May,Web Development,Company Website,B.Tech,8.5,12,1,1,1,0,0,0,
+ALC1152,Apr,Digital Marketing,Referral,B.Tech,7.87,0,1,1,1,0,0,0,
+ALC1153,Jul,UI/UX Design,Referral,B.Tech,7.28,0,1,1,1,1,1,1,
+ALC1154,Dec,Web Development,Referral,B.Tech,8.11,0,1,1,1,1,0,0,
+ALC1155,May,Data Science,Company Website,MCA,9.21,3,1,1,0,0,0,0,
+ALC1156,Aug,Data Science,LinkedIn,MBA,7.38,0,1,1,1,1,1,1,
+ALC1157,Sep,Web Development,Naukri,B.Tech,6.62,0,0,0,0,0,0,0,No response
+ALC1158,May,Digital Marketing,Naukri,BCA,8.5,6,0,0,0,0,0,0,No response
+ALC1159,Sep,Digital Marketing,LinkedIn,BCA,7.39,0,1,1,1,0,0,0,
+ALC1160,Jun,Web Development,Company Website,MBA,5.54,0,1,0,0,0,0,0,
+ALC1161,Aug,Business Development,LinkedIn,BCA,8.26,0,0,0,0,0,0,0,Already placed
+ALC1162,Aug,Digital Marketing,LinkedIn,MCA,7.02,0,0,0,0,0,0,0,No response
+ALC1163,Jul,Data Science,Company Website,BCA,7.42,0,1,1,1,1,1,1,
+ALC1164,Mar,Data Science,LinkedIn,MCA,7.8,0,1,0,0,0,0,0,
+ALC1165,Oct,Data Science,Company Website,BSc,7.67,0,0,0,0,0,0,0,Role mismatch
+ALC1166,Jun,Data Science,Company Website,B.Tech,8.14,0,1,1,1,1,0,0,
+ALC1167,Apr,Data Science,College Portal,MCA,7.11,6,1,1,1,1,1,1,
+ALC1168,Feb,Data Science,LinkedIn,B.Tech,7.96,12,0,0,0,0,0,0,Low CGPA
+ALC1169,Aug,Data Science,LinkedIn,BSc,7.27,3,0,0,0,0,0,0,Low CGPA
+ALC1170,Aug,Data Science,Referral,BCA,8.16,6,1,0,0,0,0,0,
+ALC1171,Jan,Business Development,Instagram,BSc,8.05,0,1,0,0,0,0,0,
+ALC1172,Jul,Data Science,Referral,BSc,6.66,12,0,0,0,0,0,0,Already placed
+ALC1173,May,Web Development,LinkedIn,BSc,8.48,0,0,0,0,0,0,0,No response
+ALC1174,Aug,Web Development,Referral,BSc,7.02,12,0,0,0,0,0,0,No response
+ALC1175,Apr,Business Development,College Portal,B.Tech,8.23,12,1,0,0,0,0,0,
+ALC1176,Sep,Data Science,Company Website,B.Tech,7.83,3,1,1,1,1,1,1,
+ALC1177,Jun,Web Development,LinkedIn,BCA,9.15,12,0,0,0,0,0,0,Low CGPA
+ALC1178,Nov,Business Development,Company Website,B.Tech,7.3,0,1,1,1,1,1,0,
+ALC1179,Mar,UI/UX Design,College Portal,BBA,7.19,0,1,1,0,0,0,0,
+ALC1180,Jun,UI/UX Design,Instagram,B.Tech,7.48,0,0,0,0,0,0,0,Already placed
+ALC1181,Mar,Data Science,LinkedIn,MCA,7.23,0,1,0,0,0,0,0,
+ALC1182,Nov,Data Science,Referral,MBA,8.22,0,1,1,1,1,1,1,
+ALC1183,Oct,Digital Marketing,Naukri,BSc,6.05,0,0,0,0,0,0,0,No response
+ALC1184,May,Business Development,LinkedIn,B.Tech,6.55,12,0,0,0,0,0,0,No response
+ALC1185,Aug,Digital Marketing,Naukri,BSc,6.54,0,1,1,1,1,1,1,
+ALC1186,Oct,Digital Marketing,Referral,MCA,8.36,3,1,1,1,1,0,0,
+ALC1187,Jul,Data Science,LinkedIn,BCA,9.04,6,0,0,0,0,0,0,Location constraint
+ALC1188,Jul,UI/UX Design,LinkedIn,MBA,7.41,12,1,0,0,0,0,0,
+ALC1189,May,Data Science,Company Website,BSc,7.35,12,1,0,0,0,0,0,
+ALC1190,Mar,Web Development,LinkedIn,B.Tech,7.56,0,1,1,0,0,0,0,
+ALC1191,Nov,Web Development,College Portal,BCA,8.55,12,1,0,0,0,0,0,
+ALC1192,Nov,Web Development,LinkedIn,BCA,6.67,3,0,0,0,0,0,0,No response
+ALC1193,Aug,Data Science,Referral,B.Tech,7.71,0,1,1,1,0,0,0,
+ALC1194,Jun,Data Science,LinkedIn,B.Tech,8.38,0,1,1,0,0,0,0,
+ALC1195,Jun,Digital Marketing,Naukri,B.Tech,7.95,3,1,1,1,0,0,0,
+ALC1196,Sep,Data Science,Instagram,B.Tech,7.67,0,0,0,0,0,0,0,Role mismatch
+ALC1197,Nov,Digital Marketing,Instagram,B.Tech,8.4,0,1,1,0,0,0,0,
+ALC1198,Nov,Data Science,Company Website,MCA,5.07,3,1,1,1,1,0,0,
+ALC1199,Sep,Web Development,LinkedIn,MBA,8.11,0,1,0,0,0,0,0,
+ALC1200,Aug,Web Development,Company Website,MCA,6.91,0,0,0,0,0,0,0,Role mismatch
+ALC1201,Mar,Data Science,LinkedIn,BCA,5.85,3,1,1,1,0,0,0,
+ALC1202,Apr,Web Development,LinkedIn,B.Tech,7.96,0,1,1,1,0,0,0,
+ALC1203,Nov,Data Science,LinkedIn,BCA,8.74,0,1,1,1,0,0,0,
+ALC1204,Aug,Data Science,College Portal,BCA,7.38,0,0,0,0,0,0,0,No response
+ALC1205,Jan,Business Development,Company Website,B.Tech,8.36,0,0,0,0,0,0,0,No response
+ALC1206,Mar,Web Development,Referral,MBA,8.95,12,1,1,1,1,1,0,
+ALC1207,Aug,UI/UX Design,College Portal,B.Tech,8.68,0,1,1,0,0,0,0,
+ALC1208,Jan,Data Science,LinkedIn,MBA,8.98,0,0,0,0,0,0,0,No response
+ALC1209,Apr,Digital Marketing,Instagram,BBA,8.17,0,1,0,0,0,0,0,
+ALC1210,Jul,UI/UX Design,College Portal,B.Tech,7.57,0,1,1,1,1,1,1,
+ALC1211,Sep,Digital Marketing,College Portal,B.Tech,6.06,6,1,1,0,0,0,0,
+ALC1212,Aug,Web Development,LinkedIn,BSc,7.28,3,0,0,0,0,0,0,Already placed
+ALC1213,May,Web Development,Company Website,BCA,6.74,0,0,0,0,0,0,0,Already placed
+ALC1214,Sep,Web Development,Referral,B.Tech,9.45,0,1,0,0,0,0,0,
+ALC1215,May,Business Development,LinkedIn,MCA,7.34,0,1,1,1,1,1,1,
+ALC1216,Jun,UI/UX Design,LinkedIn,B.Tech,7.61,0,1,1,1,0,0,0,
+ALC1217,Sep,Business Development,Referral,BBA,8.0,3,1,0,0,0,0,0,
+ALC1218,Aug,Data Science,Referral,MCA,7.54,0,1,0,0,0,0,0,
+ALC1219,Oct,UI/UX Design,LinkedIn,B.Tech,9.03,0,1,1,1,1,1,1,
+ALC1220,Aug,Business Development,Instagram,B.Tech,6.94,0,1,1,1,1,0,0,
+ALC1221,Jul,Data Science,LinkedIn,B.Tech,7.68,6,0,0,0,0,0,0,Role mismatch
+ALC1222,Mar,Data Science,College Portal,B.Tech,6.83,12,1,0,0,0,0,0,
+ALC1223,Jun,UI/UX Design,Naukri,B.Tech,6.31,0,1,1,0,0,0,0,
+ALC1224,May,Digital Marketing,College Portal,BBA,6.95,3,1,0,0,0,0,0,
+ALC1225,May,UI/UX Design,Referral,B.Tech,7.47,0,1,0,0,0,0,0,
+ALC1226,Dec,Data Science,College Portal,BCA,7.11,0,0,0,0,0,0,0,Location constraint
+ALC1227,Jun,UI/UX Design,LinkedIn,MCA,6.88,3,0,0,0,0,0,0,Already placed
+ALC1228,Nov,Data Science,Instagram,BSc,6.23,6,0,0,0,0,0,0,No response
+ALC1229,Aug,Data Science,College Portal,MBA,7.43,12,1,1,0,0,0,0,
+ALC1230,Oct,Data Science,Naukri,B.Tech,6.15,0,0,0,0,0,0,0,No response
+ALC1231,Jul,UI/UX Design,LinkedIn,MBA,8.18,0,0,0,0,0,0,0,Role mismatch
+ALC1232,Aug,Digital Marketing,LinkedIn,BCA,7.57,3,1,0,0,0,0,0,
+ALC1233,Jul,Web Development,LinkedIn,BCA,6.19,0,0,0,0,0,0,0,No response
+ALC1234,Apr,Web Development,Referral,B.Tech,7.22,0,1,0,0,0,0,0,
+ALC1235,Sep,UI/UX Design,College Portal,MCA,6.82,0,0,0,0,0,0,0,No response
+ALC1236,May,Web Development,Naukri,BCA,7.79,3,1,1,1,0,0,0,
+ALC1237,Jan,UI/UX Design,College Portal,B.Tech,8.71,0,1,1,1,1,0,0,
+ALC1238,Aug,Web Development,Instagram,B.Tech,5.81,0,1,0,0,0,0,0,
+ALC1239,Apr,Web Development,LinkedIn,BCA,7.6,6,1,0,0,0,0,0,
+ALC1240,Nov,Web Development,Naukri,BSc,7.36,0,1,1,1,1,1,1,
+ALC1241,Dec,Web Development,Company Website,BBA,8.1,0,1,0,0,0,0,0,
+ALC1242,Nov,UI/UX Design,Company Website,BSc,7.69,0,1,0,0,0,0,0,
+ALC1243,Jun,Web Development,Company Website,B.Tech,6.82,0,0,0,0,0,0,0,Already placed
+ALC1244,Jan,Data Science,Company Website,BCA,7.21,0,0,0,0,0,0,0,Low CGPA
+ALC1245,Nov,Business Development,Referral,BCA,6.78,0,1,1,1,0,0,0,
+ALC1246,Jun,Web Development,LinkedIn,B.Tech,8.47,6,0,0,0,0,0,0,Location constraint
+ALC1247,Dec,Web Development,LinkedIn,B.Tech,7.52,0,1,0,0,0,0,0,
+ALC1248,Dec,Business Development,Naukri,BSc,9.21,12,1,1,1,1,1,1,
+ALC1249,Oct,Digital Marketing,Referral,B.Tech,7.45,0,1,1,1,1,1,1,
+ALC1250,May,Data Science,Company Website,MBA,6.86,0,1,1,1,1,1,1,
+ALC1251,Jun,Business Development,College Portal,B.Tech,6.14,0,1,1,1,1,0,0,
+ALC1252,Oct,Digital Marketing,LinkedIn,B.Tech,5.88,0,0,0,0,0,0,0,Already placed
+ALC1253,May,Web Development,LinkedIn,B.Tech,6.07,3,0,0,0,0,0,0,No response
+ALC1254,Apr,Data Science,Referral,MCA,7.74,0,1,0,0,0,0,0,
+ALC1255,Jul,UI/UX Design,College Portal,BSc,7.96,0,1,0,0,0,0,0,
+ALC1256,Nov,Digital Marketing,LinkedIn,MCA,6.08,6,0,0,0,0,0,0,Location constraint
+ALC1257,Sep,Web Development,College Portal,BCA,8.31,12,1,1,1,1,1,1,
+ALC1258,Aug,Business Development,LinkedIn,B.Tech,7.07,6,1,1,1,1,1,0,
+ALC1259,Mar,UI/UX Design,College Portal,MBA,7.63,0,1,0,0,0,0,0,
+ALC1260,Aug,Data Science,LinkedIn,BCA,8.95,3,0,0,0,0,0,0,No response
+ALC1261,Dec,Web Development,Company Website,BSc,8.31,0,0,0,0,0,0,0,Low CGPA
+ALC1262,Apr,Data Science,LinkedIn,B.Tech,7.26,0,0,0,0,0,0,0,Low CGPA
+ALC1263,Jul,UI/UX Design,College Portal,BCA,6.7,0,0,0,0,0,0,0,No response
+ALC1264,Oct,Data Science,LinkedIn,B.Tech,5.56,0,0,0,0,0,0,0,Low CGPA
+ALC1265,Sep,Digital Marketing,LinkedIn,B.Tech,6.85,0,1,1,1,0,0,0,
+ALC1266,Sep,UI/UX Design,College Portal,BBA,7.31,0,1,1,1,1,1,1,
+ALC1267,Sep,UI/UX Design,College Portal,BCA,6.61,6,0,0,0,0,0,0,No response
+ALC1268,Jun,Web Development,Referral,B.Tech,7.38,0,1,0,0,0,0,0,
+ALC1269,May,UI/UX Design,LinkedIn,BCA,7.57,0,1,0,0,0,0,0,
+ALC1270,Oct,Data Science,Referral,BCA,7.3,0,1,1,0,0,0,0,
+ALC1271,Oct,UI/UX Design,Naukri,BSc,6.91,12,1,0,0,0,0,0,
+ALC1272,Oct,Data Science,Company Website,MCA,7.65,0,1,0,0,0,0,0,
+ALC1273,Nov,Web Development,LinkedIn,MCA,7.9,0,1,0,0,0,0,0,
+ALC1274,Jul,UI/UX Design,College Portal,BSc,6.52,6,0,0,0,0,0,0,Low CGPA
+ALC1275,Jul,Data Science,LinkedIn,B.Tech,8.77,6,1,1,1,1,0,0,
+ALC1276,Oct,Data Science,LinkedIn,BBA,7.41,0,1,1,1,1,1,1,
+ALC1277,Aug,Digital Marketing,Instagram,BCA,7.52,3,0,0,0,0,0,0,Low CGPA
+ALC1278,Sep,Digital Marketing,LinkedIn,B.Tech,8.14,3,0,0,0,0,0,0,Role mismatch
+ALC1279,Oct,Digital Marketing,College Portal,BSc,7.71,3,1,1,1,1,1,1,
+ALC1280,Nov,Digital Marketing,Referral,B.Tech,8.36,0,0,0,0,0,0,0,Role mismatch
+ALC1281,Jun,Web Development,Company Website,MCA,7.76,6,0,0,0,0,0,0,No response
+ALC1282,Jun,Data Science,College Portal,BCA,6.95,0,1,0,0,0,0,0,
+ALC1283,Mar,Web Development,LinkedIn,MBA,7.83,0,0,0,0,0,0,0,Low CGPA
+ALC1284,Aug,Data Science,LinkedIn,BBA,6.47,0,0,0,0,0,0,0,Low CGPA
+ALC1285,Jan,Business Development,College Portal,MCA,7.6,0,1,0,0,0,0,0,
+ALC1286,Jul,Digital Marketing,LinkedIn,MBA,7.47,0,1,1,1,1,1,0,
+ALC1287,Jul,Web Development,College Portal,MBA,7.31,3,1,1,1,1,0,0,
+ALC1288,May,Web Development,LinkedIn,B.Tech,7.38,0,0,0,0,0,0,0,No response
+ALC1289,Aug,Business Development,LinkedIn,BCA,5.81,0,0,0,0,0,0,0,Role mismatch
+ALC1290,Jan,Data Science,College Portal,B.Tech,7.01,0,1,0,0,0,0,0,
+ALC1291,Jan,Digital Marketing,LinkedIn,BBA,7.58,0,0,0,0,0,0,0,Already placed
+ALC1292,Oct,Web Development,College Portal,BCA,7.64,12,0,0,0,0,0,0,No response
+ALC1293,Jun,Digital Marketing,Referral,BBA,6.58,0,1,0,0,0,0,0,
+ALC1294,Mar,Data Science,Company Website,B.Tech,8.64,0,1,1,1,1,1,1,
+ALC1295,Jul,UI/UX Design,LinkedIn,B.Tech,6.72,0,0,0,0,0,0,0,Low CGPA
+ALC1296,Sep,Business Development,LinkedIn,BBA,8.37,0,1,0,0,0,0,0,
+ALC1297,Apr,Digital Marketing,LinkedIn,B.Tech,7.88,0,1,1,1,1,1,0,
+ALC1298,Aug,Digital Marketing,Referral,B.Tech,6.92,3,0,0,0,0,0,0,No response
+ALC1299,Mar,Business Development,Company Website,B.Tech,9.1,12,1,0,0,0,0,0,
+ALC1300,Feb,Digital Marketing,LinkedIn,MCA,6.43,0,1,0,0,0,0,0,
+ALC1301,Jul,Data Science,Naukri,BBA,8.33,3,1,1,1,0,0,0,
+ALC1302,Jul,Digital Marketing,LinkedIn,B.Tech,8.4,3,1,1,1,1,1,0,
+ALC1303,Aug,Digital Marketing,College Portal,B.Tech,6.9,6,1,1,1,1,1,0,
+ALC1304,Sep,Web Development,Company Website,B.Tech,8.75,0,1,0,0,0,0,0,
+ALC1305,Dec,UI/UX Design,Naukri,BSc,7.27,0,1,1,1,1,1,1,
+ALC1306,Jul,Business Development,Company Website,BBA,7.76,0,0,0,0,0,0,0,Already placed
+ALC1307,Jun,Business Development,Company Website,B.Tech,7.73,3,1,1,0,0,0,0,
+ALC1308,Oct,Web Development,LinkedIn,B.Tech,7.38,6,0,0,0,0,0,0,No response
+ALC1309,May,Data Science,Company Website,B.Tech,8.23,0,1,1,1,0,0,0,
+ALC1310,Jun,Business Development,LinkedIn,BBA,8.21,0,0,0,0,0,0,0,Location constraint
+ALC1311,Feb,UI/UX Design,Naukri,BSc,5.93,6,0,0,0,0,0,0,Role mismatch
+ALC1312,Jan,Data Science,College Portal,B.Tech,8.67,6,1,1,1,1,0,0,
+ALC1313,Dec,Business Development,Company Website,B.Tech,6.0,12,0,0,0,0,0,0,Low CGPA
+ALC1314,Oct,UI/UX Design,College Portal,B.Tech,8.43,3,0,0,0,0,0,0,Already placed
+ALC1315,Sep,Web Development,Referral,MCA,8.51,0,1,1,1,0,0,0,
+ALC1316,Jun,Digital Marketing,College Portal,B.Tech,6.52,0,1,0,0,0,0,0,
+ALC1317,Apr,Web Development,Company Website,BSc,7.13,3,0,0,0,0,0,0,Location constraint
+ALC1318,Apr,Data Science,LinkedIn,MBA,6.5,0,1,0,0,0,0,0,
+ALC1319,May,Web Development,LinkedIn,BCA,7.31,0,1,0,0,0,0,0,
+ALC1320,Jul,UI/UX Design,LinkedIn,B.Tech,7.22,3,0,0,0,0,0,0,Already placed
+ALC1321,Sep,Data Science,LinkedIn,B.Tech,8.2,0,1,1,1,1,0,0,
+ALC1322,Aug,Web Development,Naukri,MBA,8.68,3,1,1,1,0,0,0,
+ALC1323,May,Web Development,LinkedIn,BSc,8.76,0,1,0,0,0,0,0,
+ALC1324,Dec,Web Development,Instagram,MBA,6.99,12,1,1,0,0,0,0,
+ALC1325,Sep,Business Development,LinkedIn,MBA,7.31,0,0,0,0,0,0,0,No response
+ALC1326,Jul,Web Development,LinkedIn,B.Tech,5.98,0,0,0,0,0,0,0,Low CGPA
+ALC1327,Aug,Web Development,Company Website,MCA,6.77,0,0,0,0,0,0,0,Role mismatch
+ALC1328,Jun,UI/UX Design,Referral,BSc,8.37,0,1,0,0,0,0,0,
+ALC1329,May,Web Development,College Portal,B.Tech,8.95,3,0,0,0,0,0,0,Already placed
+ALC1330,Jun,Data Science,College Portal,MCA,6.39,3,1,1,1,0,0,0,
+ALC1331,Sep,Web Development,Company Website,MBA,6.97,0,0,0,0,0,0,0,Already placed
+ALC1332,Jan,Data Science,LinkedIn,MBA,7.48,0,0,0,0,0,0,0,Role mismatch
+ALC1333,Mar,Data Science,Instagram,BBA,7.75,0,0,0,0,0,0,0,Role mismatch
+ALC1334,Feb,Web Development,Instagram,BSc,6.77,0,0,0,0,0,0,0,Location constraint
+ALC1335,Feb,Web Development,Referral,BBA,7.88,12,1,1,1,0,0,0,
+ALC1336,Oct,Business Development,LinkedIn,B.Tech,7.07,6,1,1,1,1,1,1,
+ALC1337,Sep,Web Development,Referral,B.Tech,7.49,3,1,0,0,0,0,0,
+ALC1338,Jul,Digital Marketing,LinkedIn,MCA,7.99,3,1,0,0,0,0,0,
+ALC1339,Mar,Digital Marketing,LinkedIn,B.Tech,7.51,0,1,1,1,1,1,1,
+ALC1340,Jul,Data Science,LinkedIn,B.Tech,7.11,12,0,0,0,0,0,0,No response
+ALC1341,Jul,Digital Marketing,College Portal,BCA,7.4,3,1,0,0,0,0,0,
+ALC1342,Apr,Data Science,Naukri,BCA,7.42,3,1,0,0,0,0,0,
+ALC1343,Jun,Business Development,Company Website,MBA,7.17,6,1,1,1,1,1,1,
+ALC1344,Jun,Data Science,Company Website,MCA,7.27,0,1,1,1,1,0,0,
+ALC1345,Aug,Web Development,College Portal,B.Tech,8.94,6,1,1,1,1,0,0,
+ALC1346,Aug,Data Science,LinkedIn,B.Tech,8.0,0,1,1,1,1,0,0,
+ALC1347,Feb,Business Development,College Portal,B.Tech,7.23,0,1,1,1,1,1,0,
+ALC1348,Jun,Web Development,Instagram,MCA,8.13,0,1,1,0,0,0,0,
+ALC1349,Aug,Digital Marketing,LinkedIn,MBA,7.2,12,1,1,1,1,1,0,
+ALC1350,Jul,Data Science,Naukri,B.Tech,8.56,6,1,1,1,1,1,1,
+ALC1351,Oct,UI/UX Design,College Portal,BSc,7.83,3,1,0,0,0,0,0,
+ALC1352,Aug,Data Science,College Portal,BSc,7.4,3,1,1,1,0,0,0,
+ALC1353,Apr,Business Development,Company Website,BSc,7.9,0,1,0,0,0,0,0,
+ALC1354,Feb,Data Science,College Portal,MCA,6.09,12,1,1,0,0,0,0,
+ALC1355,Aug,Data Science,Naukri,B.Tech,6.49,0,0,0,0,0,0,0,Low CGPA
+ALC1356,Jan,Data Science,Naukri,BSc,6.43,0,0,0,0,0,0,0,Already placed
+ALC1357,Aug,Web Development,College Portal,BCA,7.63,0,1,1,0,0,0,0,
+ALC1358,Nov,Digital Marketing,LinkedIn,BSc,9.06,3,1,1,1,1,1,0,
+ALC1359,Aug,Data Science,College Portal,BBA,9.51,3,1,0,0,0,0,0,
+ALC1360,Jun,UI/UX Design,Naukri,BSc,8.07,0,0,0,0,0,0,0,Role mismatch
+ALC1361,Aug,Web Development,LinkedIn,BBA,7.95,0,0,0,0,0,0,0,Already placed
+ALC1362,Jul,Web Development,Referral,B.Tech,5.88,6,1,1,1,1,1,1,
+ALC1363,Jul,Web Development,Referral,MBA,7.01,0,1,1,1,1,1,1,
+ALC1364,Nov,Web Development,Company Website,MCA,6.79,3,0,0,0,0,0,0,No response
+ALC1365,Jun,Digital Marketing,LinkedIn,MCA,6.94,12,0,0,0,0,0,0,Role mismatch
+ALC1366,Dec,Data Science,Company Website,B.Tech,7.35,0,1,0,0,0,0,0,
+ALC1367,Nov,Data Science,Naukri,B.Tech,7.08,0,1,0,0,0,0,0,
+ALC1368,Apr,UI/UX Design,LinkedIn,B.Tech,5.72,3,0,0,0,0,0,0,Already placed
+ALC1369,Feb,Business Development,LinkedIn,BBA,8.17,6,0,0,0,0,0,0,No response
+ALC1370,Mar,Web Development,Instagram,BSc,6.53,0,0,0,0,0,0,0,Low CGPA
+ALC1371,Jan,Data Science,LinkedIn,B.Tech,7.72,12,1,0,0,0,0,0,
+ALC1372,Mar,Digital Marketing,Naukri,BCA,9.37,0,1,0,0,0,0,0,
+ALC1373,Aug,Web Development,College Portal,BSc,6.67,0,0,0,0,0,0,0,No response
+ALC1374,Feb,Data Science,LinkedIn,BBA,5.22,3,0,0,0,0,0,0,Low CGPA
+ALC1375,May,Data Science,Naukri,MBA,7.24,6,1,0,0,0,0,0,
+ALC1376,Oct,Digital Marketing,College Portal,MBA,8.49,0,1,1,1,0,0,0,
+ALC1377,Jan,Digital Marketing,College Portal,BCA,9.26,6,1,1,1,1,0,0,
+ALC1378,Oct,Data Science,College Portal,B.Tech,6.39,0,1,0,0,0,0,0,
+ALC1379,May,Data Science,College Portal,MBA,7.95,0,0,0,0,0,0,0,No response
+ALC1380,Mar,Data Science,LinkedIn,BBA,7.08,0,1,0,0,0,0,0,
+ALC1381,Sep,Digital Marketing,College Portal,BSc,7.4,6,1,1,1,0,0,0,
+ALC1382,Aug,Data Science,Instagram,MBA,9.88,0,0,0,0,0,0,0,Low CGPA
+ALC1383,Oct,Data Science,LinkedIn,BSc,6.15,0,1,0,0,0,0,0,
+ALC1384,Sep,UI/UX Design,Referral,B.Tech,7.73,0,1,1,1,0,0,0,
+ALC1385,Oct,Data Science,LinkedIn,BCA,7.92,6,0,0,0,0,0,0,Low CGPA
+ALC1386,May,Digital Marketing,Company Website,B.Tech,8.48,3,1,1,1,1,1,0,
+ALC1387,Apr,Data Science,LinkedIn,B.Tech,7.59,3,0,0,0,0,0,0,Already placed
+ALC1388,Sep,Data Science,Instagram,BBA,7.78,0,0,0,0,0,0,0,Already placed
+ALC1389,Oct,Data Science,College Portal,MCA,7.15,0,1,1,1,1,1,1,
+ALC1390,Dec,Digital Marketing,LinkedIn,B.Tech,7.74,0,0,0,0,0,0,0,Role mismatch
+ALC1391,Jun,UI/UX Design,LinkedIn,BCA,7.19,6,1,1,1,1,1,0,
+ALC1392,Jun,UI/UX Design,LinkedIn,BSc,8.06,6,0,0,0,0,0,0,No response
+ALC1393,Sep,Web Development,College Portal,B.Tech,7.17,0,1,1,1,0,0,0,
+ALC1394,Jun,Digital Marketing,LinkedIn,MBA,7.84,3,0,0,0,0,0,0,No response
+ALC1395,Nov,Data Science,Company Website,BBA,7.47,0,1,0,0,0,0,0,
+ALC1396,Oct,Data Science,College Portal,MBA,8.51,0,1,1,1,1,1,0,
+ALC1397,Jun,Business Development,LinkedIn,B.Tech,7.45,0,1,1,1,1,0,0,
+ALC1398,Sep,Data Science,Referral,B.Tech,5.9,0,1,0,0,0,0,0,
+ALC1399,Sep,Data Science,Company Website,BSc,8.64,0,0,0,0,0,0,0,Role mismatch
+ALC1400,Mar,Data Science,LinkedIn,MBA,6.68,0,1,0,0,0,0,0,
+ALC1401,Nov,Data Science,LinkedIn,B.Tech,6.91,0,1,1,1,1,0,0,
+ALC1402,Jul,Data Science,LinkedIn,BSc,6.96,3,0,0,0,0,0,0,No response
+ALC1403,Oct,Digital Marketing,Company Website,B.Tech,8.74,0,1,0,0,0,0,0,
+ALC1404,Jun,Web Development,Referral,BBA,5.58,0,0,0,0,0,0,0,Location constraint
+ALC1405,Nov,Business Development,College Portal,B.Tech,10.0,3,1,1,1,0,0,0,
+ALC1406,Jun,UI/UX Design,Company Website,MCA,8.45,0,1,1,0,0,0,0,
+ALC1407,Jan,Web Development,Company Website,B.Tech,7.7,0,1,1,1,1,1,0,
+ALC1408,Nov,Data Science,College Portal,B.Tech,7.45,3,1,1,0,0,0,0,
+ALC1409,Mar,Web Development,Naukri,B.Tech,7.76,0,1,0,0,0,0,0,
+ALC1410,May,Digital Marketing,LinkedIn,B.Tech,7.97,0,1,0,0,0,0,0,
+ALC1411,Dec,Data Science,LinkedIn,BSc,8.08,0,1,1,1,1,1,1,
+ALC1412,Dec,Digital Marketing,LinkedIn,MCA,8.0,12,0,0,0,0,0,0,Role mismatch
+ALC1413,Aug,Web Development,LinkedIn,B.Tech,7.58,0,0,0,0,0,0,0,Low CGPA
+ALC1414,Aug,Digital Marketing,College Portal,BCA,7.32,3,0,0,0,0,0,0,Location constraint
+ALC1415,Jul,Web Development,Naukri,BBA,7.36,0,1,0,0,0,0,0,
+ALC1416,May,Data Science,LinkedIn,MCA,7.32,0,1,0,0,0,0,0,
+ALC1417,Jun,Business Development,LinkedIn,MBA,8.52,0,0,0,0,0,0,0,No response
+ALC1418,Aug,UI/UX Design,College Portal,BCA,8.03,3,1,1,1,1,1,0,
+ALC1419,Sep,Data Science,Naukri,BCA,5.0,0,0,0,0,0,0,0,Low CGPA
+ALC1420,Oct,UI/UX Design,LinkedIn,BBA,8.09,0,1,0,0,0,0,0,
+ALC1421,Sep,Web Development,College Portal,B.Tech,7.68,0,1,0,0,0,0,0,
+ALC1422,Mar,Business Development,LinkedIn,MBA,7.48,0,1,0,0,0,0,0,
+ALC1423,Jul,UI/UX Design,LinkedIn,B.Tech,7.15,12,1,0,0,0,0,0,
+ALC1424,Feb,Web Development,Instagram,BSc,8.51,0,1,1,1,1,1,1,
+ALC1425,Jul,Data Science,Instagram,B.Tech,8.35,0,1,1,1,0,0,0,
+ALC1426,Jul,Data Science,LinkedIn,MBA,6.8,0,0,0,0,0,0,0,Already placed
+ALC1427,Nov,Web Development,Instagram,BCA,7.87,12,0,0,0,0,0,0,Low CGPA
+ALC1428,Jun,Digital Marketing,Referral,MBA,6.63,0,0,0,0,0,0,0,Location constraint
+ALC1429,Mar,Data Science,Naukri,B.Tech,6.26,0,0,0,0,0,0,0,No response
+ALC1430,Apr,Data Science,College Portal,MBA,6.94,3,1,1,1,1,1,1,
+ALC1431,Sep,UI/UX Design,College Portal,MBA,8.28,3,1,1,1,1,1,0,
+ALC1432,Aug,Business Development,College Portal,MBA,8.36,0,1,1,1,1,1,1,
+ALC1433,Mar,Web Development,Referral,MBA,7.96,0,1,1,1,1,1,1,
+ALC1434,Mar,Data Science,LinkedIn,BBA,8.15,0,1,1,1,1,1,0,
+ALC1435,Sep,Data Science,LinkedIn,BSc,7.96,0,1,0,0,0,0,0,
+ALC1436,Feb,Data Science,LinkedIn,B.Tech,6.92,0,1,0,0,0,0,0,
+ALC1437,Oct,Business Development,Company Website,BSc,7.89,0,1,1,1,0,0,0,
+ALC1438,Sep,Data Science,LinkedIn,BCA,8.22,0,1,1,1,1,0,0,
+ALC1439,Mar,Digital Marketing,Referral,B.Tech,8.18,0,1,1,0,0,0,0,
+ALC1440,Mar,Data Science,Instagram,B.Tech,8.57,3,1,0,0,0,0,0,
+ALC1441,Dec,Digital Marketing,LinkedIn,B.Tech,8.14,12,1,1,1,1,0,0,
+ALC1442,Jun,Digital Marketing,Referral,BSc,7.82,0,1,1,1,1,1,1,
+ALC1443,Jun,UI/UX Design,College Portal,BBA,8.46,0,1,0,0,0,0,0,
+ALC1444,Oct,Data Science,Naukri,BSc,7.48,0,1,1,0,0,0,0,
+ALC1445,Nov,Data Science,LinkedIn,BCA,6.71,12,0,0,0,0,0,0,Low CGPA
+ALC1446,Dec,Data Science,Referral,BCA,7.35,0,1,0,0,0,0,0,
+ALC1447,Sep,Business Development,Company Website,B.Tech,6.83,0,1,1,1,0,0,0,
+ALC1448,Jun,UI/UX Design,Naukri,B.Tech,6.89,0,0,0,0,0,0,0,Already placed
+ALC1449,Mar,Digital Marketing,Referral,BCA,7.37,0,1,0,0,0,0,0,
+ALC1450,Sep,Digital Marketing,College Portal,B.Tech,6.79,0,0,0,0,0,0,0,Already placed
+ALC1451,Jul,Digital Marketing,Referral,B.Tech,7.22,0,1,1,0,0,0,0,
+ALC1452,Jun,Data Science,Naukri,MBA,5.8,0,0,0,0,0,0,0,No response
+ALC1453,Nov,Business Development,College Portal,BBA,7.69,12,1,0,0,0,0,0,
+ALC1454,Mar,Web Development,LinkedIn,MCA,7.5,0,0,0,0,0,0,0,Low CGPA
+ALC1455,Jul,Web Development,Naukri,MCA,6.76,3,1,0,0,0,0,0,
+ALC1456,Jan,Web Development,Referral,MBA,8.09,3,1,1,1,1,0,0,
+ALC1457,Jul,Data Science,Referral,BCA,8.34,0,1,1,1,1,1,1,
+ALC1458,Feb,Data Science,LinkedIn,MBA,6.05,0,1,1,1,1,0,0,
+ALC1459,Mar,UI/UX Design,Referral,BSc,6.81,0,1,1,1,1,1,1,
+ALC1460,Mar,Data Science,College Portal,B.Tech,6.81,0,1,0,0,0,0,0,
+ALC1461,Aug,Digital Marketing,Referral,BCA,6.65,6,0,0,0,0,0,0,Role mismatch
+ALC1462,Sep,Data Science,LinkedIn,BSc,8.25,12,1,1,1,1,1,1,
+ALC1463,Aug,Web Development,Referral,BCA,7.33,0,1,0,0,0,0,0,
+ALC1464,Dec,Data Science,Instagram,MBA,7.26,0,0,0,0,0,0,0,No response
+ALC1465,Jun,Web Development,LinkedIn,MBA,5.7,12,0,0,0,0,0,0,Role mismatch
+ALC1466,May,Digital Marketing,Instagram,B.Tech,8.07,3,1,1,0,0,0,0,
+ALC1467,Oct,Data Science,College Portal,B.Tech,6.38,6,1,1,1,1,1,0,
+ALC1468,May,Digital Marketing,Naukri,B.Tech,7.55,0,1,0,0,0,0,0,
+ALC1469,Dec,Web Development,Company Website,B.Tech,7.75,0,0,0,0,0,0,0,Already placed
+ALC1470,Jan,Digital Marketing,College Portal,B.Tech,8.72,3,1,1,1,1,1,1,
+ALC1471,Dec,Business Development,Company Website,BSc,6.32,3,0,0,0,0,0,0,Role mismatch
+ALC1472,Feb,UI/UX Design,Naukri,B.Tech,5.0,0,0,0,0,0,0,0,Already placed
+ALC1473,Nov,Data Science,College Portal,BCA,7.67,0,1,1,1,1,1,1,
+ALC1474,Jul,Data Science,LinkedIn,B.Tech,9.12,0,1,0,0,0,0,0,
+ALC1475,Dec,Data Science,Referral,MCA,8.62,0,1,1,1,1,1,1,
+ALC1476,Feb,Digital Marketing,Company Website,B.Tech,7.69,0,0,0,0,0,0,0,No response
+ALC1477,Jul,Data Science,Company Website,BCA,7.06,12,1,1,1,1,1,0,
+ALC1478,Dec,Web Development,Company Website,BSc,8.23,0,1,0,0,0,0,0,
+ALC1479,Jul,Digital Marketing,College Portal,BSc,6.62,6,1,0,0,0,0,0,
+ALC1480,Aug,Web Development,Company Website,B.Tech,7.93,0,1,1,1,1,1,1,
+ALC1481,Sep,UI/UX Design,LinkedIn,BSc,7.95,3,1,1,1,1,1,0,
+ALC1482,Jul,Data Science,College Portal,BCA,8.45,12,1,1,1,0,0,0,
+ALC1483,Aug,Data Science,LinkedIn,BCA,9.98,0,1,0,0,0,0,0,
+ALC1484,Aug,Digital Marketing,LinkedIn,B.Tech,7.85,0,1,1,1,1,1,1,
+ALC1485,Nov,Web Development,College Portal,B.Tech,7.04,0,1,1,1,1,0,0,
+ALC1486,Feb,Digital Marketing,College Portal,BBA,7.48,0,1,1,1,1,1,1,
+ALC1487,May,Web Development,Referral,BCA,5.91,3,1,1,1,1,1,1,
+ALC1488,Dec,Data Science,College Portal,BCA,6.87,6,0,0,0,0,0,0,Already placed
+ALC1489,Nov,UI/UX Design,College Portal,BBA,7.13,0,1,0,0,0,0,0,
+ALC1490,Jul,UI/UX Design,LinkedIn,BSc,7.03,0,1,0,0,0,0,0,
+ALC1491,Aug,Digital Marketing,College Portal,B.Tech,7.64,0,1,0,0,0,0,0,
+ALC1492,May,Data Science,LinkedIn,MBA,6.76,3,1,0,0,0,0,0,
+ALC1493,Apr,Digital Marketing,LinkedIn,B.Tech,8.51,0,1,1,1,1,0,0,
+ALC1494,Jul,Web Development,Referral,BSc,7.5,0,0,0,0,0,0,0,Role mismatch
+ALC1495,Jun,Data Science,Referral,BBA,7.49,0,0,0,0,0,0,0,Low CGPA
+ALC1496,Aug,Business Development,Referral,MCA,7.2,0,1,1,1,0,0,0,
+ALC1497,Feb,Data Science,College Portal,B.Tech,7.64,0,1,1,1,0,0,0,
+ALC1498,Dec,Business Development,College Portal,B.Tech,8.24,3,1,1,1,1,0,0,
+ALC1499,Dec,Web Development,Naukri,B.Tech,6.72,0,1,1,1,1,1,1,
